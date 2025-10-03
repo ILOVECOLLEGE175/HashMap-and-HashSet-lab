@@ -27,3 +27,13 @@ Then start describing your problem by typing in the terminal window.
 
 The purpose of this project is to demonstrate and study library classes, such 
 as ArrayList, HashMap, HashSet, and Random.
+
+24. A hash map is used mainly for storage or a way to get easy access to important files.
+To use it you must import the hashmap class. then you must create your values like 1 & 2. you can then use the hash map to retrieve the value.
+
+25. yes you can use the same type of parameter for two different things and the hashmap can sort them out.
+
+26. you must input the code int numberOfEnteries = map.size(); 
+      System.out.println("number in entries in the map = " + numberOfEnteries);
+
+
