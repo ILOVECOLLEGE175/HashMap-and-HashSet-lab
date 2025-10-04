@@ -50,4 +50,8 @@ if (mymap.containskey(keytoCheck)) {
 32. you would have to set up a get method and have it get the keys in all the maps
 
 
-33.
+34. The two pieces store objects and are very easy to loop. the main difference between the two is that the array list allows duplicates of an item while hash sets do not.
+
+35. an array list allows for you to find and item by its postion i.e. (0).
+
+36 the extra spaced make empty strings inside of an array.
