@@ -36,4 +36,18 @@ To use it you must import the hashmap class. then you must create your values li
 26. you must input the code int numberOfEnteries = map.size(); 
       System.out.println("number in entries in the map = " + numberOfEnteries);
 
+28. It does not create a new entry, it just updates the value linked to the old key.
 
+29. 2 new entry's are created with their own unique key and the map size increases.
+
+30. you would need to input String keytoCheck = the value or name of the integer and have a output like 
+if (mymap.containskey(keytoCheck)) {
+    System.out,println("the key is" + keytoCheck);
+}
+
+31. The map would return nothing since there is no input that matches its expectations.
+
+32. you would have to set up a get method and have it get the keys in all the maps
+
+
+33.
